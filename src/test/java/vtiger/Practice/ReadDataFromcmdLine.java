@@ -9,6 +9,7 @@ public class ReadDataFromcmdLine {
 	{
 		String BROWSER = System.getProperty("browser");//run time parameter
 		System.out.println(BROWSER);
+		System.out.println("data updated");
 	
 	}
 
